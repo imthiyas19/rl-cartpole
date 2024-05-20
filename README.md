@@ -14,8 +14,8 @@ ii) 1: Push cart to the right
 
 ## MONTE CARLO CONTROL ALGORITHM FOR CART POLE BALANCING
 ```py
-Developed by: Kanishka V S
-Register Number:212222230061
+Developed by: mohammed imthiyas
+Register Number:212222230083
 ```
 ```py
 
